@@ -1,0 +1,14 @@
+.senac-decor {
+  margin-top: 60px;
+  display: flex;
+  gap: 140px;
+  box-shadow: 30px 20px 1px 0px #008080;
+  border-radius: 10px;
+  width: 550px;
+  height: 300px;
+}
+
+.senac-decor img:last-child {
+  width: 520px;
+  height: 480px;
+}

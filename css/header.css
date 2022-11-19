@@ -1,0 +1,23 @@
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  align-items: center;
+}
+
+.cabecalho-nav ul {
+  display: flex;
+  box-sizing: border-box;
+  gap: 20px;
+}
+
+.cabecalho-nav a {
+  background-color: #3d4ff6;
+  width: 130px;
+  text-align: center;
+  color: #fff;
+  font-family: "Helvetica";
+  font-size: 0.7rem;
+  padding: 20px;
+  border-radius: 5px;
+}

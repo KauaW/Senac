@@ -1,0 +1,36 @@
+.senac-depoimentos {
+  margin: 0 auto;
+  padding-top: 60px;
+  font-size: 2.2rem;
+}
+
+.senac-depoimentos h2 {
+  width: 20ch;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  margin-left: 60px;
+}
+
+.senac-depoimentos p {
+  margin-bottom: 20px;
+}
+
+.senac-depoimentos em {
+  text-transform: capitalize;
+}
+
+.depoimento {
+  display: flex;
+  gap: 40px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.depoimento-user {
+  display: flex;
+  gap: 20px;
+}
+
+.cor-s1 {
+  color: #ff8c00;
+}

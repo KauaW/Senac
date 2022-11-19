@@ -1,0 +1,15 @@
+/*Global*/
+@import "./global.css";
+
+/*Header*/
+@import "./header.css";
+
+/*Container*/
+@import "./utilitario/container.css";
+
+/*Section*/
+@import "./senac/senac-decor.css";
+/*Sobre*/
+@import "./senac/senac-sobre.css";
+/*Depoimentos*/
+@import "./senac/senac-depoimentos.css";

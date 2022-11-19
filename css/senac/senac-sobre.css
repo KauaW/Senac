@@ -1,0 +1,62 @@
+.senac-conteudo {
+  margin-top: 240px;
+}
+
+.senac-conteudo h2 {
+  text-decoration: underline;
+  font-size: 2rem;
+}
+
+.senac-conteudo p {
+  padding-top: 10px;
+  font-size: 1.2rem;
+}
+
+.senac-informacoes {
+  margin-bottom: 20px;
+}
+
+.senac-informacoes ul {
+  display: flex;
+  justify-content: center;
+  margin-left: 120px;
+  gap: 30px;
+  margin-top: 40px;
+  width: 1200px;
+}
+
+.senac-informacoes ul li {
+  text-align: center;
+  background-color: #e2d0d0;
+  padding: 30px;
+  border-radius: 4px;
+}
+
+.senac-informacoes ul img {
+  margin-left: 50px;
+}
+
+.senac-informacoes ul h3 {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.senac-informacoes::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 4px;
+  margin-top: 20px;
+  background-color: #ff8c00;
+}
+
+.senac-conteudo::after {
+  content: "Depoimentos";
+  display: block;
+  position: absolute;
+  left: 40px;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #414040;
+}
